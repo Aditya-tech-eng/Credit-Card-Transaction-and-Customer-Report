@@ -1,9 +1,9 @@
 # Credit Card Transaction and Customer Report
 
-## 📌 Overview  
+## Overview  
 This Power BI project provides a comprehensive analysis of credit card transactions and customer behavior. It includes interactive visualizations to help businesses understand revenue trends, customer spending patterns, and acquisition costs.
 
-## 📊 Features  
+## Features  
 
 ### **Credit Card Transaction Report**  
 - Revenue, interest, and transaction amount analysis.  
@@ -17,26 +17,22 @@ This Power BI project provides a comprehensive analysis of credit card transacti
 - **Dependency-based revenue analysis**.  
 - **Loan and homeownership status** impact on spending.  
 
-## 📂 Dataset  
+## Dataset  
 - **`credit_card.csv`** – Contains transaction details (amount, type, and date).  
 - **`customer.csv`** – Includes customer demographics and income levels.  
 
-## 🔍 Key Insights  
+## Key Insights  
 - The **Platinum category** contributes the highest revenue (~83.4%).  
 - **Business professionals and white-collar workers** have the highest spending.  
 - **Customer satisfaction** correlates with spending behavior and credit card usage.  
 - **Loan and homeownership status** impact purchasing power.  
 
-## 🚀 How to Use  
+## How to Use  
 1. **Download** the `Dashboards3.pbix` file.  
 2. **Open** it in **Power BI Desktop**.  
 3. **Explore** the interactive visualizations using filters and slicers.  
 
-## 📄 Future Enhancements  
-- **Predictive analytics** to forecast future spending.  
-- **Machine learning models** for customer segmentation.  
-
-
+## These are screenshots of our Dashboards
 ![Screenshot 2025-02-22 194053](https://github.com/user-attachments/assets/e35550b9-646f-47b3-90df-f3104c953c56)
 
 
